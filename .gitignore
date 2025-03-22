@@ -3,7 +3,7 @@
 *.war.md5
 *.xz
 *.tar
-*.zip
+#*.zip
 .obsidian
 *.png
 *.pdf
