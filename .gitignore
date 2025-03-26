@@ -8,6 +8,7 @@
 *.png
 *.pdf
 *.properties
+*.groovy
 *.txt
 *.xml
 *.crc
